@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Downloads\Etapa1\8_medrano_EsMayor\8_medrano_EsMayor\8_medrano_EsMayor\bin\Debug\8_medrano_EsMayor.exe.config
+C:\Users\alumno.ET37\Downloads\Etapa1\8_medrano_EsMayor\8_medrano_EsMayor\8_medrano_EsMayor\bin\Debug\8_medrano_EsMayor.exe
+C:\Users\alumno.ET37\Downloads\Etapa1\8_medrano_EsMayor\8_medrano_EsMayor\8_medrano_EsMayor\bin\Debug\8_medrano_EsMayor.pdb
+C:\Users\alumno.ET37\Downloads\Etapa1\8_medrano_EsMayor\8_medrano_EsMayor\8_medrano_EsMayor\obj\Debug\8_medrano_EsMayor.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\Etapa1\8_medrano_EsMayor\8_medrano_EsMayor\8_medrano_EsMayor\obj\Debug\8_medrano_EsMayor.exe
+C:\Users\alumno.ET37\Downloads\Etapa1\8_medrano_EsMayor\8_medrano_EsMayor\8_medrano_EsMayor\obj\Debug\8_medrano_EsMayor.pdb
