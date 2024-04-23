@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Downloads\medrano2024\Etapa0\0_medrano_HolaMundo\0_medrano_HolaMundo\bin\Debug\0_medrano_HolaMundo.exe.config
+C:\Users\alumno.ET37\Downloads\medrano2024\Etapa0\0_medrano_HolaMundo\0_medrano_HolaMundo\bin\Debug\0_medrano_HolaMundo.exe
+C:\Users\alumno.ET37\Downloads\medrano2024\Etapa0\0_medrano_HolaMundo\0_medrano_HolaMundo\bin\Debug\0_medrano_HolaMundo.pdb
+C:\Users\alumno.ET37\Downloads\medrano2024\Etapa0\0_medrano_HolaMundo\0_medrano_HolaMundo\obj\Debug\0_medrano_HolaMundo.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\medrano2024\Etapa0\0_medrano_HolaMundo\0_medrano_HolaMundo\obj\Debug\0_medrano_HolaMundo.exe
+C:\Users\alumno.ET37\Downloads\medrano2024\Etapa0\0_medrano_HolaMundo\0_medrano_HolaMundo\obj\Debug\0_medrano_HolaMundo.pdb
