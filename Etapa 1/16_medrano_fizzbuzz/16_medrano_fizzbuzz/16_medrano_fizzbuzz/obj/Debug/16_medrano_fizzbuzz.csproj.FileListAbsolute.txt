@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Downloads\Etapa1\16_medrano_fizzbuzz\16_medrano_fizzbuzz\16_medrano_fizzbuzz\bin\Debug\16_medrano_fizzbuzz.exe.config
+C:\Users\alumno.ET37\Downloads\Etapa1\16_medrano_fizzbuzz\16_medrano_fizzbuzz\16_medrano_fizzbuzz\bin\Debug\16_medrano_fizzbuzz.exe
+C:\Users\alumno.ET37\Downloads\Etapa1\16_medrano_fizzbuzz\16_medrano_fizzbuzz\16_medrano_fizzbuzz\bin\Debug\16_medrano_fizzbuzz.pdb
+C:\Users\alumno.ET37\Downloads\Etapa1\16_medrano_fizzbuzz\16_medrano_fizzbuzz\16_medrano_fizzbuzz\obj\Debug\16_medrano_fizzbuzz.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\Etapa1\16_medrano_fizzbuzz\16_medrano_fizzbuzz\16_medrano_fizzbuzz\obj\Debug\16_medrano_fizzbuzz.exe
+C:\Users\alumno.ET37\Downloads\Etapa1\16_medrano_fizzbuzz\16_medrano_fizzbuzz\16_medrano_fizzbuzz\obj\Debug\16_medrano_fizzbuzz.pdb
