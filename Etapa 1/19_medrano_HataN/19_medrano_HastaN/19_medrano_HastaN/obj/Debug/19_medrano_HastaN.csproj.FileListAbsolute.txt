@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Downloads\Etapa1\19_medrano_HataN\19_medrano_HastaN\19_medrano_HastaN\bin\Debug\19_medrano_HastaN.exe.config
+C:\Users\alumno.ET37\Downloads\Etapa1\19_medrano_HataN\19_medrano_HastaN\19_medrano_HastaN\bin\Debug\19_medrano_HastaN.exe
+C:\Users\alumno.ET37\Downloads\Etapa1\19_medrano_HataN\19_medrano_HastaN\19_medrano_HastaN\bin\Debug\19_medrano_HastaN.pdb
+C:\Users\alumno.ET37\Downloads\Etapa1\19_medrano_HataN\19_medrano_HastaN\19_medrano_HastaN\obj\Debug\19_medrano_HastaN.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\Etapa1\19_medrano_HataN\19_medrano_HastaN\19_medrano_HastaN\obj\Debug\19_medrano_HastaN.exe
+C:\Users\alumno.ET37\Downloads\Etapa1\19_medrano_HataN\19_medrano_HastaN\19_medrano_HastaN\obj\Debug\19_medrano_HastaN.pdb
