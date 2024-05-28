@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Downloads\Etapa1\17_medrano_MenuObjetos\17_MiPrimerMenuObjeto\17_MiPrimerMenuObjeto\bin\Debug\17_MiPrimerMenuObjeto.exe.config
+C:\Users\alumno.ET37\Downloads\Etapa1\17_medrano_MenuObjetos\17_MiPrimerMenuObjeto\17_MiPrimerMenuObjeto\bin\Debug\17_MiPrimerMenuObjeto.exe
+C:\Users\alumno.ET37\Downloads\Etapa1\17_medrano_MenuObjetos\17_MiPrimerMenuObjeto\17_MiPrimerMenuObjeto\bin\Debug\17_MiPrimerMenuObjeto.pdb
+C:\Users\alumno.ET37\Downloads\Etapa1\17_medrano_MenuObjetos\17_MiPrimerMenuObjeto\17_MiPrimerMenuObjeto\obj\Debug\17_MiPrimerMenuObjeto.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\Etapa1\17_medrano_MenuObjetos\17_MiPrimerMenuObjeto\17_MiPrimerMenuObjeto\obj\Debug\17_MiPrimerMenuObjeto.exe
+C:\Users\alumno.ET37\Downloads\Etapa1\17_medrano_MenuObjetos\17_MiPrimerMenuObjeto\17_MiPrimerMenuObjeto\obj\Debug\17_MiPrimerMenuObjeto.pdb
