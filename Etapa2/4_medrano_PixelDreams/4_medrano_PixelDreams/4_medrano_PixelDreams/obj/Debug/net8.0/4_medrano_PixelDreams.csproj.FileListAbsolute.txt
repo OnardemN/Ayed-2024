@@ -1,0 +1,14 @@
+C:\Users\nayelim600\Downloads\4_medrano_PixelDreams\4_medrano_PixelDreams\4_medrano_PixelDreams\bin\Debug\net8.0\4_medrano_PixelDreams.exe
+C:\Users\nayelim600\Downloads\4_medrano_PixelDreams\4_medrano_PixelDreams\4_medrano_PixelDreams\bin\Debug\net8.0\4_medrano_PixelDreams.deps.json
+C:\Users\nayelim600\Downloads\4_medrano_PixelDreams\4_medrano_PixelDreams\4_medrano_PixelDreams\bin\Debug\net8.0\4_medrano_PixelDreams.runtimeconfig.json
+C:\Users\nayelim600\Downloads\4_medrano_PixelDreams\4_medrano_PixelDreams\4_medrano_PixelDreams\bin\Debug\net8.0\4_medrano_PixelDreams.dll
+C:\Users\nayelim600\Downloads\4_medrano_PixelDreams\4_medrano_PixelDreams\4_medrano_PixelDreams\bin\Debug\net8.0\4_medrano_PixelDreams.pdb
+C:\Users\nayelim600\Downloads\4_medrano_PixelDreams\4_medrano_PixelDreams\4_medrano_PixelDreams\obj\Debug\net8.0\4_medrano_PixelDreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nayelim600\Downloads\4_medrano_PixelDreams\4_medrano_PixelDreams\4_medrano_PixelDreams\obj\Debug\net8.0\4_medrano_PixelDreams.AssemblyInfoInputs.cache
+C:\Users\nayelim600\Downloads\4_medrano_PixelDreams\4_medrano_PixelDreams\4_medrano_PixelDreams\obj\Debug\net8.0\4_medrano_PixelDreams.AssemblyInfo.cs
+C:\Users\nayelim600\Downloads\4_medrano_PixelDreams\4_medrano_PixelDreams\4_medrano_PixelDreams\obj\Debug\net8.0\4_medrano_PixelDreams.csproj.CoreCompileInputs.cache
+C:\Users\nayelim600\Downloads\4_medrano_PixelDreams\4_medrano_PixelDreams\4_medrano_PixelDreams\obj\Debug\net8.0\4_medrano_PixelDreams.dll
+C:\Users\nayelim600\Downloads\4_medrano_PixelDreams\4_medrano_PixelDreams\4_medrano_PixelDreams\obj\Debug\net8.0\refint\4_medrano_PixelDreams.dll
+C:\Users\nayelim600\Downloads\4_medrano_PixelDreams\4_medrano_PixelDreams\4_medrano_PixelDreams\obj\Debug\net8.0\4_medrano_PixelDreams.pdb
+C:\Users\nayelim600\Downloads\4_medrano_PixelDreams\4_medrano_PixelDreams\4_medrano_PixelDreams\obj\Debug\net8.0\4_medrano_PixelDreams.genruntimeconfig.cache
+C:\Users\nayelim600\Downloads\4_medrano_PixelDreams\4_medrano_PixelDreams\4_medrano_PixelDreams\obj\Debug\net8.0\ref\4_medrano_PixelDreams.dll
