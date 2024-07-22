@@ -1,4 +1,0 @@
-C:\Users\nayelim600\Downloads\practica nayeli\practica\practica\obj\Debug\net8.0\practica.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\nayelim600\Downloads\practica nayeli\practica\practica\obj\Debug\net8.0\practica.AssemblyInfoInputs.cache
-C:\Users\nayelim600\Downloads\practica nayeli\practica\practica\obj\Debug\net8.0\practica.AssemblyInfo.vb
-C:\Users\nayelim600\Downloads\practica nayeli\practica\practica\obj\Debug\net8.0\practica.vbproj.CoreCompileInputs.cache
