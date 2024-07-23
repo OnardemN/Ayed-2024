@@ -1,0 +1,14 @@
+C:\Users\nayelim600\Downloads\6_medrano_ZEGARPG\6-medrano_ZEGARPG\6-medrano_ZEGARPG\bin\Debug\net8.0\6-medrano_ZEGARPG.exe
+C:\Users\nayelim600\Downloads\6_medrano_ZEGARPG\6-medrano_ZEGARPG\6-medrano_ZEGARPG\bin\Debug\net8.0\6-medrano_ZEGARPG.deps.json
+C:\Users\nayelim600\Downloads\6_medrano_ZEGARPG\6-medrano_ZEGARPG\6-medrano_ZEGARPG\bin\Debug\net8.0\6-medrano_ZEGARPG.runtimeconfig.json
+C:\Users\nayelim600\Downloads\6_medrano_ZEGARPG\6-medrano_ZEGARPG\6-medrano_ZEGARPG\bin\Debug\net8.0\6-medrano_ZEGARPG.dll
+C:\Users\nayelim600\Downloads\6_medrano_ZEGARPG\6-medrano_ZEGARPG\6-medrano_ZEGARPG\bin\Debug\net8.0\6-medrano_ZEGARPG.pdb
+C:\Users\nayelim600\Downloads\6_medrano_ZEGARPG\6-medrano_ZEGARPG\6-medrano_ZEGARPG\obj\Debug\net8.0\6-medrano_ZEGARPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nayelim600\Downloads\6_medrano_ZEGARPG\6-medrano_ZEGARPG\6-medrano_ZEGARPG\obj\Debug\net8.0\6-medrano_ZEGARPG.AssemblyInfoInputs.cache
+C:\Users\nayelim600\Downloads\6_medrano_ZEGARPG\6-medrano_ZEGARPG\6-medrano_ZEGARPG\obj\Debug\net8.0\6-medrano_ZEGARPG.AssemblyInfo.cs
+C:\Users\nayelim600\Downloads\6_medrano_ZEGARPG\6-medrano_ZEGARPG\6-medrano_ZEGARPG\obj\Debug\net8.0\6-medrano_ZEGARPG.csproj.CoreCompileInputs.cache
+C:\Users\nayelim600\Downloads\6_medrano_ZEGARPG\6-medrano_ZEGARPG\6-medrano_ZEGARPG\obj\Debug\net8.0\6-medrano_ZEGARPG.dll
+C:\Users\nayelim600\Downloads\6_medrano_ZEGARPG\6-medrano_ZEGARPG\6-medrano_ZEGARPG\obj\Debug\net8.0\refint\6-medrano_ZEGARPG.dll
+C:\Users\nayelim600\Downloads\6_medrano_ZEGARPG\6-medrano_ZEGARPG\6-medrano_ZEGARPG\obj\Debug\net8.0\6-medrano_ZEGARPG.pdb
+C:\Users\nayelim600\Downloads\6_medrano_ZEGARPG\6-medrano_ZEGARPG\6-medrano_ZEGARPG\obj\Debug\net8.0\6-medrano_ZEGARPG.genruntimeconfig.cache
+C:\Users\nayelim600\Downloads\6_medrano_ZEGARPG\6-medrano_ZEGARPG\6-medrano_ZEGARPG\obj\Debug\net8.0\ref\6-medrano_ZEGARPG.dll
