@@ -1,0 +1,14 @@
+C:\Users\nayelim600\Downloads\9_medrano_MiPrimerMatriz\9_medrano_MiPrimerMatriz\9_medrano_MiPrimerMatriz\bin\Debug\net8.0\9_medrano_MiPrimerMatriz.exe
+C:\Users\nayelim600\Downloads\9_medrano_MiPrimerMatriz\9_medrano_MiPrimerMatriz\9_medrano_MiPrimerMatriz\bin\Debug\net8.0\9_medrano_MiPrimerMatriz.deps.json
+C:\Users\nayelim600\Downloads\9_medrano_MiPrimerMatriz\9_medrano_MiPrimerMatriz\9_medrano_MiPrimerMatriz\bin\Debug\net8.0\9_medrano_MiPrimerMatriz.runtimeconfig.json
+C:\Users\nayelim600\Downloads\9_medrano_MiPrimerMatriz\9_medrano_MiPrimerMatriz\9_medrano_MiPrimerMatriz\bin\Debug\net8.0\9_medrano_MiPrimerMatriz.dll
+C:\Users\nayelim600\Downloads\9_medrano_MiPrimerMatriz\9_medrano_MiPrimerMatriz\9_medrano_MiPrimerMatriz\bin\Debug\net8.0\9_medrano_MiPrimerMatriz.pdb
+C:\Users\nayelim600\Downloads\9_medrano_MiPrimerMatriz\9_medrano_MiPrimerMatriz\9_medrano_MiPrimerMatriz\obj\Debug\net8.0\9_medrano_MiPrimerMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nayelim600\Downloads\9_medrano_MiPrimerMatriz\9_medrano_MiPrimerMatriz\9_medrano_MiPrimerMatriz\obj\Debug\net8.0\9_medrano_MiPrimerMatriz.AssemblyInfoInputs.cache
+C:\Users\nayelim600\Downloads\9_medrano_MiPrimerMatriz\9_medrano_MiPrimerMatriz\9_medrano_MiPrimerMatriz\obj\Debug\net8.0\9_medrano_MiPrimerMatriz.AssemblyInfo.cs
+C:\Users\nayelim600\Downloads\9_medrano_MiPrimerMatriz\9_medrano_MiPrimerMatriz\9_medrano_MiPrimerMatriz\obj\Debug\net8.0\9_medrano_MiPrimerMatriz.csproj.CoreCompileInputs.cache
+C:\Users\nayelim600\Downloads\9_medrano_MiPrimerMatriz\9_medrano_MiPrimerMatriz\9_medrano_MiPrimerMatriz\obj\Debug\net8.0\9_medrano_MiPrimerMatriz.dll
+C:\Users\nayelim600\Downloads\9_medrano_MiPrimerMatriz\9_medrano_MiPrimerMatriz\9_medrano_MiPrimerMatriz\obj\Debug\net8.0\refint\9_medrano_MiPrimerMatriz.dll
+C:\Users\nayelim600\Downloads\9_medrano_MiPrimerMatriz\9_medrano_MiPrimerMatriz\9_medrano_MiPrimerMatriz\obj\Debug\net8.0\9_medrano_MiPrimerMatriz.pdb
+C:\Users\nayelim600\Downloads\9_medrano_MiPrimerMatriz\9_medrano_MiPrimerMatriz\9_medrano_MiPrimerMatriz\obj\Debug\net8.0\9_medrano_MiPrimerMatriz.genruntimeconfig.cache
+C:\Users\nayelim600\Downloads\9_medrano_MiPrimerMatriz\9_medrano_MiPrimerMatriz\9_medrano_MiPrimerMatriz\obj\Debug\net8.0\ref\9_medrano_MiPrimerMatriz.dll
