@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-medrano_HotSale", "5-medrano_HotSale\5-medrano_HotSale.csproj", "{81B3E358-ABA2-4E47-8586-ED1942668119}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81B3E358-ABA2-4E47-8586-ED1942668119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B3E358-ABA2-4E47-8586-ED1942668119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B3E358-ABA2-4E47-8586-ED1942668119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B3E358-ABA2-4E47-8586-ED1942668119}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CC9CAC7-7E90-4EA9-91F0-E23CB27AA026}
+	EndGlobalSection
+EndGlobal

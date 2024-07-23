@@ -1,0 +1,14 @@
+C:\Users\nayelim600\Downloads\5_medrano_HotSale\5-medrano_HotSale\5-medrano_HotSale\bin\Debug\net8.0\5-medrano_HotSale.exe
+C:\Users\nayelim600\Downloads\5_medrano_HotSale\5-medrano_HotSale\5-medrano_HotSale\bin\Debug\net8.0\5-medrano_HotSale.deps.json
+C:\Users\nayelim600\Downloads\5_medrano_HotSale\5-medrano_HotSale\5-medrano_HotSale\bin\Debug\net8.0\5-medrano_HotSale.runtimeconfig.json
+C:\Users\nayelim600\Downloads\5_medrano_HotSale\5-medrano_HotSale\5-medrano_HotSale\bin\Debug\net8.0\5-medrano_HotSale.dll
+C:\Users\nayelim600\Downloads\5_medrano_HotSale\5-medrano_HotSale\5-medrano_HotSale\bin\Debug\net8.0\5-medrano_HotSale.pdb
+C:\Users\nayelim600\Downloads\5_medrano_HotSale\5-medrano_HotSale\5-medrano_HotSale\obj\Debug\net8.0\5-medrano_HotSale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nayelim600\Downloads\5_medrano_HotSale\5-medrano_HotSale\5-medrano_HotSale\obj\Debug\net8.0\5-medrano_HotSale.AssemblyInfoInputs.cache
+C:\Users\nayelim600\Downloads\5_medrano_HotSale\5-medrano_HotSale\5-medrano_HotSale\obj\Debug\net8.0\5-medrano_HotSale.AssemblyInfo.cs
+C:\Users\nayelim600\Downloads\5_medrano_HotSale\5-medrano_HotSale\5-medrano_HotSale\obj\Debug\net8.0\5-medrano_HotSale.csproj.CoreCompileInputs.cache
+C:\Users\nayelim600\Downloads\5_medrano_HotSale\5-medrano_HotSale\5-medrano_HotSale\obj\Debug\net8.0\5-medrano_HotSale.dll
+C:\Users\nayelim600\Downloads\5_medrano_HotSale\5-medrano_HotSale\5-medrano_HotSale\obj\Debug\net8.0\refint\5-medrano_HotSale.dll
+C:\Users\nayelim600\Downloads\5_medrano_HotSale\5-medrano_HotSale\5-medrano_HotSale\obj\Debug\net8.0\5-medrano_HotSale.pdb
+C:\Users\nayelim600\Downloads\5_medrano_HotSale\5-medrano_HotSale\5-medrano_HotSale\obj\Debug\net8.0\5-medrano_HotSale.genruntimeconfig.cache
+C:\Users\nayelim600\Downloads\5_medrano_HotSale\5-medrano_HotSale\5-medrano_HotSale\obj\Debug\net8.0\ref\5-medrano_HotSale.dll
