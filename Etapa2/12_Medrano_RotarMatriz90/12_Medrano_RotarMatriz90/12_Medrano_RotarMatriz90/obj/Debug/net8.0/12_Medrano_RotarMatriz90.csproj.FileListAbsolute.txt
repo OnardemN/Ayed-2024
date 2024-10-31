@@ -1,0 +1,14 @@
+C:\Users\nayelim600\Downloads\12_Medrano_RotarMatriz90\12_Medrano_RotarMatriz90\12_Medrano_RotarMatriz90\bin\Debug\net8.0\12_Medrano_RotarMatriz90.exe
+C:\Users\nayelim600\Downloads\12_Medrano_RotarMatriz90\12_Medrano_RotarMatriz90\12_Medrano_RotarMatriz90\bin\Debug\net8.0\12_Medrano_RotarMatriz90.deps.json
+C:\Users\nayelim600\Downloads\12_Medrano_RotarMatriz90\12_Medrano_RotarMatriz90\12_Medrano_RotarMatriz90\bin\Debug\net8.0\12_Medrano_RotarMatriz90.runtimeconfig.json
+C:\Users\nayelim600\Downloads\12_Medrano_RotarMatriz90\12_Medrano_RotarMatriz90\12_Medrano_RotarMatriz90\bin\Debug\net8.0\12_Medrano_RotarMatriz90.dll
+C:\Users\nayelim600\Downloads\12_Medrano_RotarMatriz90\12_Medrano_RotarMatriz90\12_Medrano_RotarMatriz90\bin\Debug\net8.0\12_Medrano_RotarMatriz90.pdb
+C:\Users\nayelim600\Downloads\12_Medrano_RotarMatriz90\12_Medrano_RotarMatriz90\12_Medrano_RotarMatriz90\obj\Debug\net8.0\12_Medrano_RotarMatriz90.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nayelim600\Downloads\12_Medrano_RotarMatriz90\12_Medrano_RotarMatriz90\12_Medrano_RotarMatriz90\obj\Debug\net8.0\12_Medrano_RotarMatriz90.AssemblyInfoInputs.cache
+C:\Users\nayelim600\Downloads\12_Medrano_RotarMatriz90\12_Medrano_RotarMatriz90\12_Medrano_RotarMatriz90\obj\Debug\net8.0\12_Medrano_RotarMatriz90.AssemblyInfo.cs
+C:\Users\nayelim600\Downloads\12_Medrano_RotarMatriz90\12_Medrano_RotarMatriz90\12_Medrano_RotarMatriz90\obj\Debug\net8.0\12_Medrano_RotarMatriz90.csproj.CoreCompileInputs.cache
+C:\Users\nayelim600\Downloads\12_Medrano_RotarMatriz90\12_Medrano_RotarMatriz90\12_Medrano_RotarMatriz90\obj\Debug\net8.0\12_Medrano_RotarMatriz90.dll
+C:\Users\nayelim600\Downloads\12_Medrano_RotarMatriz90\12_Medrano_RotarMatriz90\12_Medrano_RotarMatriz90\obj\Debug\net8.0\refint\12_Medrano_RotarMatriz90.dll
+C:\Users\nayelim600\Downloads\12_Medrano_RotarMatriz90\12_Medrano_RotarMatriz90\12_Medrano_RotarMatriz90\obj\Debug\net8.0\12_Medrano_RotarMatriz90.pdb
+C:\Users\nayelim600\Downloads\12_Medrano_RotarMatriz90\12_Medrano_RotarMatriz90\12_Medrano_RotarMatriz90\obj\Debug\net8.0\12_Medrano_RotarMatriz90.genruntimeconfig.cache
+C:\Users\nayelim600\Downloads\12_Medrano_RotarMatriz90\12_Medrano_RotarMatriz90\12_Medrano_RotarMatriz90\obj\Debug\net8.0\ref\12_Medrano_RotarMatriz90.dll
