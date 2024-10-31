@@ -1,0 +1,14 @@
+C:\Users\nayelim600\Downloads\Etapa3\0_Medrano_MiPrimerFuncion\0_Medrano_MiPrimerFuncion\0_Medrano_MiPrimerFuncion\bin\Debug\net8.0\0_Medrano_MiPrimerFuncion.exe
+C:\Users\nayelim600\Downloads\Etapa3\0_Medrano_MiPrimerFuncion\0_Medrano_MiPrimerFuncion\0_Medrano_MiPrimerFuncion\bin\Debug\net8.0\0_Medrano_MiPrimerFuncion.deps.json
+C:\Users\nayelim600\Downloads\Etapa3\0_Medrano_MiPrimerFuncion\0_Medrano_MiPrimerFuncion\0_Medrano_MiPrimerFuncion\bin\Debug\net8.0\0_Medrano_MiPrimerFuncion.runtimeconfig.json
+C:\Users\nayelim600\Downloads\Etapa3\0_Medrano_MiPrimerFuncion\0_Medrano_MiPrimerFuncion\0_Medrano_MiPrimerFuncion\bin\Debug\net8.0\0_Medrano_MiPrimerFuncion.dll
+C:\Users\nayelim600\Downloads\Etapa3\0_Medrano_MiPrimerFuncion\0_Medrano_MiPrimerFuncion\0_Medrano_MiPrimerFuncion\bin\Debug\net8.0\0_Medrano_MiPrimerFuncion.pdb
+C:\Users\nayelim600\Downloads\Etapa3\0_Medrano_MiPrimerFuncion\0_Medrano_MiPrimerFuncion\0_Medrano_MiPrimerFuncion\obj\Debug\net8.0\0_Medrano_MiPrimerFuncion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nayelim600\Downloads\Etapa3\0_Medrano_MiPrimerFuncion\0_Medrano_MiPrimerFuncion\0_Medrano_MiPrimerFuncion\obj\Debug\net8.0\0_Medrano_MiPrimerFuncion.AssemblyInfoInputs.cache
+C:\Users\nayelim600\Downloads\Etapa3\0_Medrano_MiPrimerFuncion\0_Medrano_MiPrimerFuncion\0_Medrano_MiPrimerFuncion\obj\Debug\net8.0\0_Medrano_MiPrimerFuncion.AssemblyInfo.cs
+C:\Users\nayelim600\Downloads\Etapa3\0_Medrano_MiPrimerFuncion\0_Medrano_MiPrimerFuncion\0_Medrano_MiPrimerFuncion\obj\Debug\net8.0\0_Medrano_MiPrimerFuncion.csproj.CoreCompileInputs.cache
+C:\Users\nayelim600\Downloads\Etapa3\0_Medrano_MiPrimerFuncion\0_Medrano_MiPrimerFuncion\0_Medrano_MiPrimerFuncion\obj\Debug\net8.0\0_Medrano_MiPrimerFuncion.dll
+C:\Users\nayelim600\Downloads\Etapa3\0_Medrano_MiPrimerFuncion\0_Medrano_MiPrimerFuncion\0_Medrano_MiPrimerFuncion\obj\Debug\net8.0\refint\0_Medrano_MiPrimerFuncion.dll
+C:\Users\nayelim600\Downloads\Etapa3\0_Medrano_MiPrimerFuncion\0_Medrano_MiPrimerFuncion\0_Medrano_MiPrimerFuncion\obj\Debug\net8.0\0_Medrano_MiPrimerFuncion.pdb
+C:\Users\nayelim600\Downloads\Etapa3\0_Medrano_MiPrimerFuncion\0_Medrano_MiPrimerFuncion\0_Medrano_MiPrimerFuncion\obj\Debug\net8.0\0_Medrano_MiPrimerFuncion.genruntimeconfig.cache
+C:\Users\nayelim600\Downloads\Etapa3\0_Medrano_MiPrimerFuncion\0_Medrano_MiPrimerFuncion\0_Medrano_MiPrimerFuncion\obj\Debug\net8.0\ref\0_Medrano_MiPrimerFuncion.dll
