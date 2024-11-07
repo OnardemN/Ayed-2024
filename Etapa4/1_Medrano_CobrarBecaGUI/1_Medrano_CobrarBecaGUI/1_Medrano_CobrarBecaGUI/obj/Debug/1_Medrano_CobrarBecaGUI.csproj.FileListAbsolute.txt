@@ -1,0 +1,9 @@
+C:\Users\alumno.ET37\Downloads\1_Medrano_CobrarBecaGUI\1_Medrano_CobrarBecaGUI\1_Medrano_CobrarBecaGUI\bin\Debug\1_Medrano_CobrarBecaGUI.exe.config
+C:\Users\alumno.ET37\Downloads\1_Medrano_CobrarBecaGUI\1_Medrano_CobrarBecaGUI\1_Medrano_CobrarBecaGUI\bin\Debug\1_Medrano_CobrarBecaGUI.exe
+C:\Users\alumno.ET37\Downloads\1_Medrano_CobrarBecaGUI\1_Medrano_CobrarBecaGUI\1_Medrano_CobrarBecaGUI\bin\Debug\1_Medrano_CobrarBecaGUI.pdb
+C:\Users\alumno.ET37\Downloads\1_Medrano_CobrarBecaGUI\1_Medrano_CobrarBecaGUI\1_Medrano_CobrarBecaGUI\obj\Debug\1_Medrano_CobrarBecaGUI.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\1_Medrano_CobrarBecaGUI\1_Medrano_CobrarBecaGUI\1_Medrano_CobrarBecaGUI\obj\Debug\_1_Medrano_CobrarBecaGUI.Form1.resources
+C:\Users\alumno.ET37\Downloads\1_Medrano_CobrarBecaGUI\1_Medrano_CobrarBecaGUI\1_Medrano_CobrarBecaGUI\obj\Debug\_1_Medrano_CobrarBecaGUI.Properties.Resources.resources
+C:\Users\alumno.ET37\Downloads\1_Medrano_CobrarBecaGUI\1_Medrano_CobrarBecaGUI\1_Medrano_CobrarBecaGUI\obj\Debug\1_Medrano_CobrarBecaGUI.csproj.GenerateResource.Cache
+C:\Users\alumno.ET37\Downloads\1_Medrano_CobrarBecaGUI\1_Medrano_CobrarBecaGUI\1_Medrano_CobrarBecaGUI\obj\Debug\1_Medrano_CobrarBecaGUI.exe
+C:\Users\alumno.ET37\Downloads\1_Medrano_CobrarBecaGUI\1_Medrano_CobrarBecaGUI\1_Medrano_CobrarBecaGUI\obj\Debug\1_Medrano_CobrarBecaGUI.pdb
