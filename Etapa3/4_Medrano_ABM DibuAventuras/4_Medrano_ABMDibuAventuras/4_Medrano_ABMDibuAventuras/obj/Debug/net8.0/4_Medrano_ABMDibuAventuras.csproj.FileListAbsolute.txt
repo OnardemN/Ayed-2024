@@ -1,0 +1,14 @@
+C:\Users\nayelim600\Downloads\4_Medrano_ABM DibuAventuras\4_Medrano_ABMDibuAventuras\4_Medrano_ABMDibuAventuras\bin\Debug\net8.0\4_Medrano_ABMDibuAventuras.exe
+C:\Users\nayelim600\Downloads\4_Medrano_ABM DibuAventuras\4_Medrano_ABMDibuAventuras\4_Medrano_ABMDibuAventuras\bin\Debug\net8.0\4_Medrano_ABMDibuAventuras.deps.json
+C:\Users\nayelim600\Downloads\4_Medrano_ABM DibuAventuras\4_Medrano_ABMDibuAventuras\4_Medrano_ABMDibuAventuras\bin\Debug\net8.0\4_Medrano_ABMDibuAventuras.runtimeconfig.json
+C:\Users\nayelim600\Downloads\4_Medrano_ABM DibuAventuras\4_Medrano_ABMDibuAventuras\4_Medrano_ABMDibuAventuras\bin\Debug\net8.0\4_Medrano_ABMDibuAventuras.dll
+C:\Users\nayelim600\Downloads\4_Medrano_ABM DibuAventuras\4_Medrano_ABMDibuAventuras\4_Medrano_ABMDibuAventuras\bin\Debug\net8.0\4_Medrano_ABMDibuAventuras.pdb
+C:\Users\nayelim600\Downloads\4_Medrano_ABM DibuAventuras\4_Medrano_ABMDibuAventuras\4_Medrano_ABMDibuAventuras\obj\Debug\net8.0\4_Medrano_ABMDibuAventuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nayelim600\Downloads\4_Medrano_ABM DibuAventuras\4_Medrano_ABMDibuAventuras\4_Medrano_ABMDibuAventuras\obj\Debug\net8.0\4_Medrano_ABMDibuAventuras.AssemblyInfoInputs.cache
+C:\Users\nayelim600\Downloads\4_Medrano_ABM DibuAventuras\4_Medrano_ABMDibuAventuras\4_Medrano_ABMDibuAventuras\obj\Debug\net8.0\4_Medrano_ABMDibuAventuras.AssemblyInfo.cs
+C:\Users\nayelim600\Downloads\4_Medrano_ABM DibuAventuras\4_Medrano_ABMDibuAventuras\4_Medrano_ABMDibuAventuras\obj\Debug\net8.0\4_Medrano_ABMDibuAventuras.csproj.CoreCompileInputs.cache
+C:\Users\nayelim600\Downloads\4_Medrano_ABM DibuAventuras\4_Medrano_ABMDibuAventuras\4_Medrano_ABMDibuAventuras\obj\Debug\net8.0\4_Medrano_ABMDibuAventuras.dll
+C:\Users\nayelim600\Downloads\4_Medrano_ABM DibuAventuras\4_Medrano_ABMDibuAventuras\4_Medrano_ABMDibuAventuras\obj\Debug\net8.0\refint\4_Medrano_ABMDibuAventuras.dll
+C:\Users\nayelim600\Downloads\4_Medrano_ABM DibuAventuras\4_Medrano_ABMDibuAventuras\4_Medrano_ABMDibuAventuras\obj\Debug\net8.0\4_Medrano_ABMDibuAventuras.pdb
+C:\Users\nayelim600\Downloads\4_Medrano_ABM DibuAventuras\4_Medrano_ABMDibuAventuras\4_Medrano_ABMDibuAventuras\obj\Debug\net8.0\4_Medrano_ABMDibuAventuras.genruntimeconfig.cache
+C:\Users\nayelim600\Downloads\4_Medrano_ABM DibuAventuras\4_Medrano_ABMDibuAventuras\4_Medrano_ABMDibuAventuras\obj\Debug\net8.0\ref\4_Medrano_ABMDibuAventuras.dll
